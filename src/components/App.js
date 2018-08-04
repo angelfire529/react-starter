@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import 'bootstrap'
+import 'bootstrap-scss'
 import './app.scss';
 
 class App extends Component {
